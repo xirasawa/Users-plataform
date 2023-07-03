@@ -1,0 +1,26 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index"
+  },
+  "keywords": [],
+  "author": "Matheus Shirasawa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "prisma": "^4.11.0",
+    "tsx": "^3.12.6"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@prisma/client": "^4.11.0",
+    "cors": "^2.8.5",
+    "D": "^1.0.0",
+    "express": "^4.17.1",
+    "rascal": "^16.3.0",
+    "typescript": "^5.0.2"
+  }
+}
